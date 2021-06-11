@@ -1,0 +1,35 @@
+{
+  "admins": [
+    {
+      "id": 13,
+      "name": "     Nguyễn Văn X",
+      "password": "     123456",
+      "description": "Học giỏi lắm"
+    },
+    {
+      "id": 15,
+      "name": "   Nguyễn Văn abc",
+      "password": "   18520804",
+      "description": "Học Giỏi lắm"
+    },
+    {
+      "id": 17,
+      "name": " Nguyễn Văn Hưng",
+      "password": " 123456",
+      "description": "Nguyễn Văn X"
+    },
+    {
+      "name": "ghgj",
+      "password": "hkkj",
+      "description": "hjkh",
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "password": "12345"
+    }
+  ]
+}
