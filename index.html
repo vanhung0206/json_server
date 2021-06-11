@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        button {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <ul id="list-admin"></ul>
+    <div class="input">
+        <div class="box-input"> 
+            <label class="box-input-lable ">Nhập name: </label>
+            <input type="text" class="box-input-input name">
+        </div>
+        <div class="box-input">
+            <label class="box-input-lable ">Nhập password: </label>
+            <input type="text" class="box-input-input password">
+        </div>
+        <div class="box-input ">
+            <label class="box-input-lable">Nhập mô tả: </label>
+            <input type="text" class="box-input-input description">
+        </div>
+        <button class="post-admin" onclick="postAdmin()">Thêm admin</button>
+    </div>
+    
+    <button id="design-mode" onclick = "designMode2()">click để design</button>
+    <script src="./app.js"></script>
+</body>
+</html>
